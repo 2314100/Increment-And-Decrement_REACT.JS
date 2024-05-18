@@ -30,7 +30,7 @@ Once the application is running, you can use the buttons to increment or decreme
 ## Contributing
 Contributions are welcome! If you'd like to contribute, please follow these steps:
 
-## Fork the repository
+- Fork the repository
 - Create a new branch (git checkout -b feature-branch)
 - Make your changes
 - Commit your changes (git commit -m 'Add some feature')
